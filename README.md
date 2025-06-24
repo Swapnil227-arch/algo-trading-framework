@@ -56,4 +56,4 @@ MIT License — free to use, adapt, and modify with attribution.
 
 ---
 
-**For the full story behind how this project was built and validated, check out my [LinkedIn article](#)** (link once published).
+**For the full story behind how this project was built and validated, check out my [LinkedIn article](#)** (https://www.linkedin.com/posts/swapnil-phutane-64100129a_from-raw-ideas-to-code-testing-optimization-activity-7343247964938653698-MHhO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEhCalEBSXurViZCpRx8NIRefuIxDnAAucI).
